@@ -61,7 +61,7 @@ $( document ).ready(function() {
     }    
   });
 
-  $(".btn-success").click(function( event ) { 
+  $("#lessons-placeholder").on('click', '.btn-success', function( event ) { 
     var lesson = $(this).closest(".lesson")
 
     var lesson_id = lesson.attr('id')
@@ -78,7 +78,7 @@ $( document ).ready(function() {
     });
   });
 
-  $(".btn-danger").click(function( event ) { 
+  $("#lessons-placeholder").on('click', '.btn-danger', function( event ) { 
     var lesson = $(this).closest(".lesson")
 
     var lesson_id = lesson.attr('id')
