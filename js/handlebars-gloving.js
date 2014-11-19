@@ -1,69 +1,81 @@
   var lesson_data = { lessons: [
     { 
-      id: "warmup",
-      title: "Warmup and Explanations",
-      playlist: "PLhIoh51VRpZDl3t7hZ91pgNndEZMiwWHZ",
-      body: "This series of videos takes you through some warmups, shows you how to hold poi, and defines some basic terminology."
+      id: "starting",
+      title: "Getting Started",
+      playlist: "PLhIoh51VRpZDJSmewrmJWw37O7knImjxO",
+      body: "A quick introduction to some of the concepts and hardware associated with gloving."
     },
     {
-      id: "fundamentals",
-      title: "Spinning Fundamentals",
-      playlist: "PLhIoh51VRpZDhR3EQrx7MM5aHntOIMTKV",
-      body: "These videos are the foundations for spinning poi. First, you'll learn how to have a little fun with your poi. Then, you will learn about the different modes of spinning, how to cross the poi in front of you, and how to control your planes.  All fundamentals for flowing freely with poi."
+      id: "figure8",
+      title: "Figure 8's",
+      playlist: "PLhIoh51VRpZAEs8HKoChgWbbhLO0S6ROM",
+      body: "Introduces the figure 8 move.  A beginning for liquid styles and a great way to transition."
     },
     {
-      id: "turning",
-      title: "Turning with Poi and Reels",
-      playlist: "PLhIoh51VRpZCZnVprkU7hR4YsQzauxVM4",
-      body: "These videos introduce turning with your poi and a move called reels.  This will allow you to change the direction you face as you spin poi allowing for greater expression and flexibility of movement in your flow."
+      id: "rolls",
+      title: "Finger Rolls",
+      playlist: "PLhIoh51VRpZDTvEuhsZKpxUTk9O7ZZLFx",
+      body: "Finger rolls are one of the most important elements of gloving to get down.  Pretty much everything builds off of them, so they're crucial to get down."
     },
     {
-      id: "weaves",
-      title: "Basic Weaves",
-      playlist: "PLhIoh51VRpZDndpCWmotQtkpFjL5rpM9Y",
-      body: "These videos introduce weaves of various beats. A foundational move for working in same direction."
+      id: "liquid",
+      title: "Liquid",
+      playlist: "PLhIoh51VRpZBUFueP-XfQJQIU7H3EEJX7",
+      body: "Liquid is a way of moving your hands so they look like water.  Getting this down will help the fluidity of your shows."
     },
     {
-      id: "butterfly",
-      title: "Butterfly",
-      playlist: "PLhIoh51VRpZCvf8jVFevtxvtY-hd_nk0G",
-      body: "These videos introduce a move called the Butterfly.  A foundational move for opposite direction movements."
+      id: "stacking",
+      title: "Stacking",
+      playlist: "PLhIoh51VRpZDwa05X50f98HOwAeHBdn1O",
+      body: "Stacking is a good way to transition and break up shows."
     },
     {
-      id: "stalls",
-      title: "Stalls",
-      playlist: "PLhIoh51VRpZC-lRR7oofSFNvlkYdQ47RQ",
-      body: "These videos introduce stalls.  Stalls allow you to quickly pause and potentially switch the spin direction of your poi."
+      id: "impact",
+      title: "Impact",
+      playlist: "PLhIoh51VRpZAyWVotZnVcGFinnArlG_VP",
+      body: "Impact moves will help you break up your light shows and blow your viewer away."
     },
     {
-      id: "buzzsaw",
-      title: "Buzzsaw",
-      playlist: "PLhIoh51VRpZBYR1-s5sB14jjxhE6jhI6z",
-      body: "These videos introduce the buzzsaw and variations. Buzzsaw opens up many inside the arm moves and can have a beautiful visual effect. And, the basic buzzsaw isn't to tricky!"
+      id: "flails",
+      title: "Flails",
+      playlist: "PLhIoh51VRpZB5FW94fPeAXXhHnmSBS1km",
+      body: "Flails are cool. Learn how to use them well and they can add a little spice."
     },
     {
-      id: "flowers",
-      title: "Flowers",
-      playlist: "PLhIoh51VRpZAvph0xdo3mjG-d6jqw1RnH",
-      body: "These videos introduce you to flowers.  Well, mostly Drex does.  Flowers are a wonderful way to free up your spinning and your body with beautiful expansive patterns."
+      id: "tutting",
+      title: "Tutting",
+      playlist: "PLhIoh51VRpZAABQ8fRgSHTpbRZdNAS33p",
+      body: "Walk like an Egyptian. Tutting is a way of making sharp angles using your hands and arms and often moving at right angles in a mechanical fasion."
     },
     {
-      id: "behindtheback",
-      title: "Behind the Back",
-      playlist: "PLhIoh51VRpZCrOv11_nOtnDkUsZrIZv4w",
-      body: "These videos show you how to build up to behind the back weaves and waistwraps. Being able to spin behind your back will allow you to turn any which way, and looks hella cool!"
+      id: "connection",
+      title: "Finger Connection",
+      playlist: "PLhIoh51VRpZADErB3NYKtCxKuIIk2Cq6a",
+      body: "Connecting your fingers during your light shows can make awesome visual illusions for your viewer."
     },
     {
-      id: "meltdown",
-      title: "Meltdown",
-      playlist: "PLhIoh51VRpZDGsh2ielrWACZSUkobt2qT",
-      body: "Videos about the Meltdown and variations. The meltdown can be a great transition move and it just looks freakin cool."
+      id: "circles",
+      title: "Circles",
+      playlist: "PLhIoh51VRpZDKRDg1FiB6yCcpVADjJ3gV",
+      body: "Circles allow you to make a continuous circular pattern that doesn't have breaks and looks ballin."
     },
     {
-      id: "isolations",
-      title: "Isolations",
-      playlist: "PLhIoh51VRpZBqrn0NX4pn0x1Ah17sdFq6",
-      body: "These videos demonstrate exercises to build up to Isolations and show some variations.  Not gonna lie, Isolations are hard as hell to nail but really cool looking. Well worth the effort."
+      id: "whips_tunnels",
+      title: "Whips/Tunnels",
+      playlist: "PLhIoh51VRpZCItwD34B49zCvLWkKvEveN",
+      body: "Whips/Tunnels are circular moves that move towards and away from the viewer and will generally blow their mind."
+    },
+    {
+      id: "partner",
+      title: "Partner Sets",
+      playlist: "PLhIoh51VRpZAZ0cbPOJ6ePHu6gthNIblN",
+      body: "What's better than two hands in your face??  Four hands in your face.  Learn how to do it right."
+    },
+    {
+      id: "sequences",
+      title: "Sequences",
+      playlist: "PLhIoh51VRpZDZnHdZ3uayc7fV-XN86qgJ",
+      body: "Some cool sequences to help you practice."
     }
   ]};
 
