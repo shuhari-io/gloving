@@ -1,0 +1,72 @@
+.label {
+  display: none;
+}
+
+#poi {
+  position: relative;
+}
+
+/* LESSONS */
+.lesson {
+  padding-top: 70px;
+}
+
+.lesson .panel-default {
+  border-color: #555;
+}
+
+.lesson .panel-heading {
+  background-color: #444;
+  color: #EEE;
+}
+
+.lesson .panel-body {
+  background-color: #DDD;
+  color: #333;
+}
+
+/* NAVIGATION */
+.navigation {
+  margin-top: 70px;
+}
+
+.nav-pills > .active > a > .badge.not-started, .badge.not-started {
+  display: none;
+}
+
+.nav-pills > .active > a > .badge.in-progress, .badge.in-progress {
+  background-color: #f0ad4e;
+}
+
+.nav-pills > .active > a > .badge.completed, .badge.completed {
+  background-color: #5cb85c;
+}
+
+.navigation .nav > li {
+  text-transform: uppercase;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.navigation .nav-pills>li.active>a, .navigation .nav-pills>li.active>a:hover {
+  background-color: #444;
+  color: #EEE;
+}
+
+.navigation .nav>li>a:hover {
+  color: #444;
+}
+
+.navigation a {
+  color: #EEE;
+}
+
+.navigation.affix {
+  top: 70px;
+}
+
+/* Fix for affix breaking once scrolled to bottom of page
+   https://github.com/twbs/bootstrap/issues/13111
+   */
+.affix-bottom {
+  position: relative;
+}
